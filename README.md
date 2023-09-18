@@ -11,3 +11,16 @@ Desarrollo Web: Mi interés por la tecnología me ha llevado a explorar el desar
 Mi Nuevo Objetivo en IT: Hoy, mi objetivo es dar un paso más allá y sumergirme en el emocionante mundo de la tecnología de la información. Estoy convencido de que mi experiencia en marketing, mi capacidad de liderazgo y mis habilidades en desarrollo web pueden ser valiosos activos en la industria IT. Estoy entusiasmado por aprender, crecer y contribuir a proyectos innovadores que están moldeando el futuro digital.
 
 Este sitio es mi plataforma para compartir mis conocimientos, experiencias y exploraciones en el campo de la tecnología de la información. Espero que encuentres contenido interesante y valioso aquí. ¡Siempre estoy abierto a nuevas conexiones y oportunidades de colaboración!
+
+🔧 Tech Stack:
+
+Frontend: Javascript, React, Redux, HTML, & CSS
+Backend: NodeJS, Express,
+Databases: SQL (MySQL, PostgreSQL)
+Version Control: Git, GitHub
+
+🚀 Let's Connect:
+
+Email: francotriadani@gmail.com
+LinkedIn: www.linkedin.com/in/francotriadani
+Portfolio: https://stringsandkeys.up.railway.app/
