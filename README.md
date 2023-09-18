@@ -21,6 +21,6 @@ This Site is My Platform: This site serves as my platform for sharing knowledge,
 
 🚀 Let's Connect:
 
-Email: francotriadani@gmail.com
-LinkedIn: www.linkedin.com/in/francotriadani
-Portfolio: https://stringsandkeys.up.railway.app/
+* Email: francotriadani@gmail.com
+* LinkedIn: www.linkedin.com/in/francotriadani
+* Portfolio: https://stringsandkeys.up.railway.app/
